@@ -1,2 +1,2 @@
 ## Those who have completed this task:
-Peikai Li, git username: lpk1202, webpage: https://lpk226551.wixsite.com/peikail
+Peikai Li -- lpk1202 -- https://lpk226551.wixsite.com/peikail
