@@ -16,3 +16,4 @@ Frederick Dauphin -- FDauphin -- https://frdauphin2020.wixsite.com/astro
 
 Rebecca Rapp -- rapprl -- https://rapprl.github.io/
 
+Zach Baldwin -- zabaldwin --  https://zabaldwin.github.io/
