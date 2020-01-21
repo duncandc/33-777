@@ -1,5 +1,7 @@
 ## Those who have completed this task:
 
+Alison LaDuke -- aladuke -- https://aladuke.github.io/
+
 Jacob Gobbo -- jgobbo -- https://jgobbo.github.io/
 
 Rithwik Tom -- ritwit -- https://ritwit.github.io/rithwiktom/
