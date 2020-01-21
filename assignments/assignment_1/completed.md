@@ -1,5 +1,9 @@
 ## Those who have completed this task:
 
+Peikai Li -- lpk1202 -- https://lpk226551.wixsite.com/peikail
+
+Alison LaDuke -- aladuke -- https://aladuke.github.io/
+
 Jacob Gobbo -- jgobbo -- https://jgobbo.github.io/
 
 Rithwik Tom -- ritwit -- https://ritwit.github.io/rithwiktom/
