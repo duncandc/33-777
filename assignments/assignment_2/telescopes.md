@@ -7,4 +7,4 @@
 | Rebecca Rapp      | Atacama Cosmology Telescope |
 | Peikai Li         | Planck                      |
 | Alejandro Sanchez | Very Large Telescope        |
-
+| Zachary Baldwin   | James Webb Space Telescope  |
