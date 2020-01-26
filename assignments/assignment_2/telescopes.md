@@ -8,3 +8,4 @@
 | Peikai Li         | Planck                      |
 | Alejandro Sanchez | Very Large Telescope        |
 | Zachary Baldwin   | James Webb Space Telescope  |
+| Andresa Campos    | The Dark Energy Survey      |
