@@ -16,3 +16,5 @@ Please see the [syllabus](./Syllabus.pdf) for further course details.
 | 5       | 1/30/2020 | Stars        | The Sun, H-R Diagram, Stellar Spectral Types, Radiative Transfer|
 | 6       | 2/4/2020  | Stars        | Radiative Transfer, Thermal Equilibrium, Stellar Atmospheres |
 | 7       | 2/6/2020  | Stars        | Scattering Processes, Line Formation |
+| 8       | 2/11/2020 | Stars        | Stellar Interriors, Hydrostatic Equilibrium, Virial Theorem |
+| 9       | 2/13/2020 | Stars        | Stellar Interriors, Equations of Stellar Structure, Scaling Relations |
