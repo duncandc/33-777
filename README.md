@@ -19,3 +19,4 @@ Please see the [syllabus](./Syllabus.pdf) for further course details.
 | 8       | 2/11/2020 | Stars        | Stellar Interriors, Hydrostatic Equilibrium, Virial Theorem |
 | 9       | 2/13/2020 | Stars        | Stellar Interriors, Equations of Stellar Structure, Scaling Relations |
 | 10      | 2/18/2020 | Stars        | Energy Generation in Stars, Nuclear Reaction Rates |
+| 11      | 2/20/2020 | Stars        | Stellar Nucleosynthesis, Main Sequence Stellar Evolution |
