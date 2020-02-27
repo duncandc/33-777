@@ -20,3 +20,5 @@ Please see the [syllabus](./Syllabus.pdf) for further course details.
 | 9       | 2/13/2020 | Stars        | Stellar Interriors, Equations of Stellar Structure, Scaling Relations |
 | 10      | 2/18/2020 | Stars        | Energy Generation in Stars, Nuclear Reaction Rates |
 | 11      | 2/20/2020 | Stars        | Stellar Nucleosynthesis, Main Sequence Stellar Evolution |
+| -       | 2/25/2020 | -            | Lecture Cancelled |
+| 12      | 2/27/2020 | Stars        | Post-Main Sequence Stellar Evolution | 
