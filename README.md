@@ -22,3 +22,5 @@ Please see the [syllabus](./Syllabus.pdf) for further course details.
 | 11      | 2/20/2020 | Stars        | Stellar Nucleosynthesis, Main Sequence Stellar Evolution |
 | -       | 2/25/2020 | -            | Lecture Cancelled |
 | 12      | 2/27/2020 | Stars        | Post-Main Sequence Stellar Evolution | 
+| 13      | 3/3/2020  | Stars        | Degenerate Matter in Stars |
+| 14      | 3/5/2020  | Stars        | Massive Stellar Evolution, Supernovae, Neutron Stars |
