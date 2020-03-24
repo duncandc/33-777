@@ -26,6 +26,7 @@ Please see the [syllabus](./Syllabus.pdf) for further course details.
 | 14      | 3/5/2020  | Stars              | Massive Stellar Evolution, Supernovae, Neutron Stars |
 | -       | 3/17/2020 | -                  | Lecture Cancelled |
 | 15      | 3/19/2020 | Galaxies           | The Milky Way, The ISM |
+| 16      | 3/24/2020 | Galaxies           | The Distance Ladder, Hubble's Law, The Galaxy Population |
 
 <!--
 | 15      | 3/17/2020 | Cosmology          | Riemannian Geometry, FRW Metric, Distances |
