@@ -29,13 +29,13 @@ Please see the [syllabus](./Syllabus.pdf) for further course details.
 | 16      | 3/24/2020 | Galaxies           | The Distance Ladder, Hubble's Law, The Galaxy Population |
 | 17      | 3/26/2020 | Galaxies           | Galaxy Dynamics, Galaxy Clusters, Dark Matter, Population Statistics |
 | 18      | 3/31/2020 | Cosmology          | Riemannian Geometry, FRW Metric, Distances |
+| -       | 4/2/2020  | -                  | Lecture Cancelled |
+| 19      | 4/7/2020  | Cosmology          | General Relativity, The Friedmann Equations |
 <!--
-| 19      | 4/2/2020  | Cosmology          | General Relativity, The Friedmann Equations |
-| 20      | 4/7/2020  | Cosmology          | Cosmological Thermodynamics, The CMB |
-| 21      | 4/9/2020  | Cosmology          | Structure Formation, Large Scale Structure |
-| 22      | 4/14/2020 | Galaxy Evolution   |  |
-| 23      | 4/21/2020 | Galaxy Evolution   |  |
-| 24      | 4/23/2020 | Galaxy Evolution   |  |
-| 25      | 4/28/2020 | Galaxy Evolution   |  |
-| 26      | 4/30/2020 | Galaxy Evolution   |  |
+| 20      | 4/9/2020  | Cosmology          | Cosmological Thermodynamics, The CMB |
+| 21      | 4/14/2020 | Cosmology          | Structure Formation, Large Scale Structure |
+| 22      | 4/21/2020 | Galaxy Evolution   |  |
+| 23      | 4/23/2020 | Galaxy Evolution   |  |
+| 24      | 4/28/2020 | Galaxy Evolution   |  |
+| 25      | 4/30/2020 | Galaxy Evolution   |  |
 -->
