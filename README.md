@@ -31,9 +31,9 @@ Please see the [syllabus](./Syllabus.pdf) for further course details.
 | 18      | 3/31/2020 | Cosmology          | Riemannian Geometry, FRW Metric, Distances |
 | -       | 4/2/2020  | -                  | Lecture Cancelled |
 | 19      | 4/7/2020  | Cosmology          | General Relativity, The Friedmann Equations |
+| 20      | 4/9/2020  | Cosmology          | FRW cosmologies, The Age of the Universe |
 <!--
-| 20      | 4/9/2020  | Cosmology          | Cosmological Thermodynamics, The CMB |
-| 21      | 4/14/2020 | Cosmology          | Structure Formation, Large Scale Structure |
+| 21      | 4/14/2020 | Cosmology          |  |
 | 22      | 4/21/2020 | Galaxy Evolution   |  |
 | 23      | 4/23/2020 | Galaxy Evolution   |  |
 | 24      | 4/28/2020 | Galaxy Evolution   |  |
