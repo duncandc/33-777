@@ -32,9 +32,9 @@ Please see the [syllabus](./Syllabus.pdf) for further course details.
 | -       | 4/2/2020  | -                  | Lecture Cancelled |
 | 19      | 4/7/2020  | Cosmology          | General Relativity, The Friedmann Equations |
 | 20      | 4/9/2020  | Cosmology          | FRW cosmologies, The Age of the Universe |
+| 21      | 4/14/2020 | Cosmology          | The CMB, BBN, The Early Universe |
 <!--
-| 21      | 4/14/2020 | Cosmology          |  |
-| 22      | 4/21/2020 | Galaxy Evolution   |  |
+| 22      | 4/21/2020 | Galaxy Evolution   | Structure Formation, Dark Matter Haloes |
 | 23      | 4/23/2020 | Galaxy Evolution   |  |
 | 24      | 4/28/2020 | Galaxy Evolution   |  |
 | 25      | 4/30/2020 | Galaxy Evolution   |  |
