@@ -20,7 +20,7 @@ Please see the [syllabus](./Syllabus.pdf) for further course details.
 | 9       | 2/13/2020 | Stars              | Stellar Interriors, Equations of Stellar Structure, Scaling Relations |
 | 10      | 2/18/2020 | Stars              | Energy Generation in Stars, Nuclear Reaction Rates |
 | 11      | 2/20/2020 | Stars              | Stellar Nucleosynthesis, Main Sequence Stellar Evolution |
-| -       | 2/25/2020 | -                  | Lecture Cancelled |
+| -       | 2/25/2020 | -                  | No Class |
 | 12      | 2/27/2020 | Stars              | Post-Main Sequence Stellar Evolution | 
 | 13      | 3/3/2020  | Stars              | Degenerate Matter in Stars |
 | 14      | 3/5/2020  | Stars              | Massive Stellar Evolution, Supernovae, Neutron Stars |
@@ -29,13 +29,14 @@ Please see the [syllabus](./Syllabus.pdf) for further course details.
 | 16      | 3/24/2020 | Galaxies           | The Distance Ladder, Hubble's Law, The Galaxy Population |
 | 17      | 3/26/2020 | Galaxies           | Galaxy Dynamics, Galaxy Clusters, Dark Matter, Population Statistics |
 | 18      | 3/31/2020 | Cosmology          | Riemannian Geometry, FRW Metric, Distances |
-| -       | 4/2/2020  | -                  | Lecture Cancelled |
+| -       | 4/2/2020  | -                  | No Class |
 | 19      | 4/7/2020  | Cosmology          | General Relativity, The Friedmann Equations |
 | 20      | 4/9/2020  | Cosmology          | FRW cosmologies, The Age of the Universe |
 | 21      | 4/14/2020 | Cosmology          | The CMB, BBN, The Early Universe |
+| -       | 4/16/2020 | Cosmology          | Cosmology Discussion |
+| -       | 4/21/2020 | -                  | Open Office Hours |
 <!--
-| 22      | 4/21/2020 | Galaxy Evolution   | Structure Formation, Dark Matter Haloes |
-| 23      | 4/23/2020 | Galaxy Evolution   |  |
+| 23      | 4/23/2020 | Galaxy Evolution   | Structure Formation, Dark Matter Haloes |
 | 24      | 4/28/2020 | Galaxy Evolution   |  |
 | 25      | 4/30/2020 | Galaxy Evolution   |  |
 -->
