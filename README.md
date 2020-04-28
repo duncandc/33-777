@@ -33,10 +33,10 @@ Please see the [syllabus](./Syllabus.pdf) for further course details.
 | 19      | 4/7/2020  | Cosmology          | General Relativity, The Friedmann Equations |
 | 20      | 4/9/2020  | Cosmology          | FRW cosmologies, The Age of the Universe |
 | 21      | 4/14/2020 | Cosmology          | The CMB, BBN, The Early Universe |
-| -       | 4/16/2020 | Cosmology          | Cosmology Discussion |
+| -       | 4/16/2020 | Cosmology          | Cosmology Summary and Discussion |
 | -       | 4/21/2020 | -                  | Open Office Hours |
+| 23      | 4/23/2020 | -                  | Open Office Houra |
+| 24      | 4/28/2020 | Galaxy Evolution   | Simulations of Galaxy Formation |
 <!--
-| 23      | 4/23/2020 | Galaxy Evolution   | Structure Formation, Dark Matter Haloes |
-| 24      | 4/28/2020 | Galaxy Evolution   |  |
 | 25      | 4/30/2020 | Galaxy Evolution   |  |
 -->
