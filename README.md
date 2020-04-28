@@ -35,7 +35,7 @@ Please see the [syllabus](./Syllabus.pdf) for further course details.
 | 21      | 4/14/2020 | Cosmology          | The CMB, BBN, The Early Universe |
 | -       | 4/16/2020 | Cosmology          | Cosmology Summary and Discussion |
 | -       | 4/21/2020 | -                  | Open Office Hours |
-| 23      | 4/23/2020 | -                  | Open Office Hours |
+| -       | 4/23/2020 | -                  | Open Office Hours |
 | 24      | 4/28/2020 | Galaxy Evolution   | Simulations of Galaxy Formation |
 <!--
 | 25      | 4/30/2020 | Galaxy Evolution   |  |
